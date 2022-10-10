@@ -1,8 +1,8 @@
 {
     "chain_name": "haqq",
     "coingecko": "",
-    "api": ["https://194.163.168.99:1317/"],
-    "rpc": ["https://194.163.168.99:26657/"],
+    "api": "https://194.163.168.99:1317/",
+    "rpc": "https://194.163.168.99:26657/",
     "snapshot_provider": "",
     "sdk_version": "0.45.3",
     "coin_type": "60",
