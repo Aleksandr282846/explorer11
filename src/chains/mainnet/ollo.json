@@ -1,8 +1,8 @@
 {
     "chain_name": "OLLO",
     "coingecko": "",
-    "api": ["https://ollo.api.bccnodes.com"],
-    "rpc": ["https://ollo.rpc.bccnodes.com"],
+    "api": "https://ollo.api.bccnodes.com",
+    "rpc": "https://ollo.rpc.bccnodes.com",
     "snapshot_provider": "",
     "sdk_version": "0.45.0",
     "coin_type": "118",
@@ -17,4 +17,3 @@
         "logo": "/logos/ollo.png"
     }]
 }
-
