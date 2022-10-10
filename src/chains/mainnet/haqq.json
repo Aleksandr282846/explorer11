@@ -1,6 +1,6 @@
 {
   "chain_name": "haqq",
-  "api": "http://127.0.0.1:1317",
+  "api": "http://194.163.168.99:1317",
   "rpc": "http://194.163.168.99:26657",
   "snapshot_provider": "",
   "sdk_version": "0.45.5",
