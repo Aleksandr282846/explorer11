@@ -1,8 +1,8 @@
 {
     "chain_name": "haqq",
     "coingecko": "",
-    "api": "https://haqq-api.systemd.run/",
-    "rpc": "https://haqq-rpc.systemd.run:36657/",
+    "api": "["https://rest.cosmos.testedge2.haqq.network/"]",
+    "rpc": "["https://rpc.tm.testedge2.haqq.network/"]",
     "snapshot_provider": "",
     "sdk_version": "0.45.3",
     "coin_type": "60",
